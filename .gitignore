@@ -2,6 +2,11 @@
 
 # dependencies
 /node_modules
+/public/bootstrap
+/public/css
+/public/fonts
+/public/images
+/public/js
 /.pnp
 .pnp.js
 
